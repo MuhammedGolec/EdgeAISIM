@@ -9,6 +9,16 @@ In this work, we present EdgeAISim, a Python-based toolkit for simulating and mo
 
 
 
+## Advantages of EdgeAISIM
+
+1.EdgeAISim tackles the distinctive challenges associated with simulating AI-driven, energy-efficient resource management policies in edge computing systems.
+
+2.EdgeAISim boasts a comprehensive simulation capability, covering a wide range of edge computing functionalities, including task scheduling, service migration, and network flow scheduling.
+
+3.EdgeAISim offers robust support for energy management and mobility requirements in the context of edge computing.
+
+4.With EdgeAISim, researchers can explore the full spectrum of edge computing functions, making it a versatile tool for in-depth assessments and experiments.
+
 
 
 
