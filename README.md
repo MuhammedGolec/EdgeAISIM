@@ -5,7 +5,7 @@ In this work, we present EdgeAISim, a Python-based toolkit for simulating and mo
 
 ![Fig2](https://github.com/MuhammedGolec/EdgeAISIM/assets/61287653/41509cd3-cb06-437d-b3ef-c8c0642aa3e4)
 
-
+EdgeAISim Architecture 
 
 
 
