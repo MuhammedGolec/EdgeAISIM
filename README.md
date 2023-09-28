@@ -1,6 +1,6 @@
 # EdgeAISIM
 
-In this work, we present EdgeAISim, a Python-based toolkit for simulating and modeling AI models in edge computing environments. Edge computing, by bringing processing and storage closer to the network edge, minimizes latency and bandwidth usage, meeting the demands of IoT applications. EdgeAISim extends EdgeSimPy and incorporates AI models like Multi-Armed Bandit and Deep Q-Networks to optimize power usage and task migration. The toolkit outperforms baseline worst-fit algorithms, showcasing its potential in sustainable edge computing by significantly reducing power consumption and enhancing task management for various large-scale scenarios.
+In this work, we present EdgeAISim, a Python-based toolkit for simulating and modelling AI models in edge computing environments. Edge computing, by bringing processing and storage closer to the network edge, minimises latency and bandwidth usage, meeting the demands of IoT applications. EdgeAISim extends EdgeSimPy and incorporates AI models like Multi-Armed Bandit and Deep Q-Networks to optimise power usage and task migration. The toolkit outperforms baseline worst-fit algorithms, showcasing its potential in sustainable edge computing by significantly reducing power consumption and enhancing task management for various large-scale scenarios.
 
 
 ![Fig2](https://github.com/MuhammedGolec/EdgeAISIM/assets/61287653/41509cd3-cb06-437d-b3ef-c8c0642aa3e4)
