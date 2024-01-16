@@ -125,4 +125,10 @@ Steps to run the project:
    - ```MAB_migration_algorithm.py```  
    - ```Qlearning_migration.py```  
    - ```GCN_Q_learning.py```  
-   - ```Probabilistic_actor_critic_migration.py```  
+   - ```Probabilistic_actor_critic_migration.py```
+   - 
+
+# Cite this work
+This dataset is part of the following publication, please cite when using this dataset:
+
+Nandhakumar, Aadharsh Roshan, et al. "Edgeaisim: A toolkit for simulation and modelling of ai models in edge computing environments." Measurement: Sensors 31 (2024): 100939.
