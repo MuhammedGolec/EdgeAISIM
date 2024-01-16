@@ -120,11 +120,6 @@ Prerequisites:
 
 Steps to run the project:
 1. Clone the project.
-
-# Cite this work
-This dataset is part of the following publication, please cite when using this dataset:
-
-Nandhakumar, Aadharsh Roshan, et al. "Edgeaisim: A toolkit for simulation and modelling of ai models in edge computing environments." Measurement: Sensors 31 (2024): 100939.
 2. Run any script of your choice out of  
    - ```Worst_Fit_Migration_algorithm.py```  
    - ```MAB_migration_algorithm.py```  
