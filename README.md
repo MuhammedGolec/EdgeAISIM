@@ -106,9 +106,6 @@ Actor and Critic Deep Networks: These feature vectors are separately fed into an
 Actor's Role: The actor-network generates a probability distribution over the servers, indicating the likelihood of selecting each server for placing a service.
 Critic's Role: The critic network calculates the 'Q-value,' representing the value of the current state based on the probability vector. This value, along with the reward, is used for updating the system's decision-making strategy.
 
-
-
-
 ## Implementation and explanation for EdgeAISim codes
 
 
@@ -123,6 +120,11 @@ Prerequisites:
 
 Steps to run the project:
 1. Clone the project.
+
+# Cite this work
+This dataset is part of the following publication, please cite when using this dataset:
+
+Nandhakumar, Aadharsh Roshan, et al. "Edgeaisim: A toolkit for simulation and modelling of ai models in edge computing environments." Measurement: Sensors 31 (2024): 100939.
 2. Run any script of your choice out of  
    - ```Worst_Fit_Migration_algorithm.py```  
    - ```MAB_migration_algorithm.py```  
